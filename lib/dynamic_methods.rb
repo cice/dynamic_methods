@@ -1,5 +1,4 @@
 require 'active_support/core_ext/class/inheritable_attributes'
-require 'ruby-debug'
 
 module DynamicMethods
   class DynamicMethod
